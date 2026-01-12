@@ -5,6 +5,10 @@
 ## Goal
 Given a list of Indicators of Compromise (IOCs) (IPs, domains, file hashes), automatically query VirusTotal, extract key reputation fields, and output a clean CSV summary for analysts.
 
+
+## IOC
+Indicator of Compromise (IoC) is digital evidence, like a malicious IP address, unusual file hash, or strange network traffic, that signals a network or system has been breached, helping security teams detect, investigate, and respond to attacks by finding "digital breadcrumbs" left by attackers
+
 ## Objectives
 - Integrate with an external security intelligence platform (VirusTotal).
 - Automate enrichment of IOCs.
