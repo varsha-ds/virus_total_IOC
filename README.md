@@ -67,7 +67,7 @@ The risk engine is intentionally simple but explainable:
 
 ```bash
 export VT_API_KEY="..."
-python3 virus_total_IOC.py iocs.txt --output enriched_iocs.csv
+python3 virus_total_IOC.py iocs.txt --output out.csv
 ```
 
 4. Load the CSV into:
