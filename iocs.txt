@@ -1,0 +1,5 @@
+8.8.8.8
+1.2.3.4
+example.com
+malicious-example.com
+44d88612fea8a8f36de82e1278abb02f
